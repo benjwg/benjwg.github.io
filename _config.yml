@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+theme: minima
+title: Benjamin Weinryb Grohsgal
+author: benj
+email: benjwg@gmail.com
+description: > #
+  Making things.
+
+github_username: benjwg
