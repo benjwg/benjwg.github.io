@@ -1,3 +1,0 @@
-## Ben Weinryb Grohsgal
-
-TK
